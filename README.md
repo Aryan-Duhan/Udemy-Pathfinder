@@ -57,3 +57,4 @@ Udemy Pathfinder is a machine learning-powered course recommendation system desi
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Open your web browser and navigate to `http://localhost:8501` to interact with the Udemy Pathfinder.
 
 By following these steps, you can easily set up and run the Udemy Pathfinder, exploring and discovering new courses that match your interests.
+
